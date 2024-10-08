@@ -1,7 +1,6 @@
 # scDMSC: Deep multi-view subspace clustering for single-cell multi-omics data
 
-We propose scDMSC, an unsupervised clustering algorithm using deep multi-view subspace learning  for single-cell multi-omics data. It coordinates omics heterogeneity through weighted reconstruction and  identifies shared latent features, elucidating correlations among omics. The algorithm outperforms existin-g methods and reveals biological mechanisms in downstream analyses.
-
+We propose scDMSC, an unsupervised clustering algorithm based on deep multi-view subspace learning for single-cell multi-omics data, including single-cell transcriptomics, proteomics, and chromatin accessibility data. It coordinates omics heterogeneity through weighted reconstruction and  identifies shared latent features, elucidating correlations among omics. The algorithm outperforms most existing tools, reveals biological mechanisms in downstream analyses, and highlights the advantages of integrating multi-omics data.
 ## Requirements:
 Python --- 3.8.13
 
